@@ -1,12 +1,10 @@
-package com.yangzx.coolweather.util;
+package com.yangzx.coolweather.db;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteOpenHelper;
 
-import com.yangzx.coolweather.db.CoolWeatherOpenHelper;
 import com.yangzx.coolweather.model.City;
 import com.yangzx.coolweather.model.County;
 import com.yangzx.coolweather.model.Province;

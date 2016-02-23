@@ -24,12 +24,12 @@
         "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
         "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
@@ -88,20 +88,24 @@
         "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/choose_area.xml",
+        "source": "/Users/keegoo/Desktop/CoolWeather/app/src/main/res/layout/choose_area.xml"
     },
     {
         "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
@@ -120,16 +124,16 @@
         "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
     },
     {
         "merged": "/Users/keegoo/Desktop/CoolWeather/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
